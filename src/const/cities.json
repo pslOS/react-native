@@ -1,0 +1,58 @@
+{
+  "cities": [
+    {
+      "id": "3060972",
+      "name": "Bratislava",
+      "temperature": 35,
+      "coordinates": {
+        "lon": 17.106741,
+        "lat": 48.148159
+      }
+    },
+    {
+      "id": "724627",
+      "name": "Humenné",
+      "temperature": 18,
+      "coordinates": {
+        "lon": 21.91625,
+        "lat": 48.937069
+      }
+    },
+    {
+      "id": "725168",
+      "name": "Bardejov",
+      "temperature": 28,
+      "coordinates": {
+        "lon": 21.272711,
+        "lat": 49.291752
+      }
+    },
+    {
+      "id": "724443",
+      "name": "Košice",
+      "temperature": 28,
+      "coordinates": {
+        "lon": 21.25808,
+        "lat": 48.713951
+      }
+    },
+    {
+      "id": "724144",
+      "name": "Michalovce",
+      "temperature": 16,
+      "coordinates": {
+        "lon": 21.9195,
+        "lat": 48.754341
+      }
+    },
+    {
+      "id": "723554",
+      "name": "Sobrance",
+      "temperature": 16,
+      "coordinates": {
+        "lon": 22.18136,
+        "lat": 48.744549
+      }
+    }
+  ]
+}

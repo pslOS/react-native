@@ -1,0 +1,40 @@
+{
+  "error": {
+    "common": {
+      "SOMETHING_WENT_WRONG": "Something went wrong. Please try again later",
+      "ACCESS_DENIED": "Access denied",
+      "VALIDATION_ERROR": "Validation failed. Please double check your data",
+      "NOT_FOUND": "This feature is not available"
+    },
+    "getWeather": {
+      "GET_WEATHER_ACCESS_DENIED": " You are not authorized to get current weather"
+    }
+  },
+  "general": {
+    "text": {
+      "loading": "Loading",
+      "humidity": "Humidity",
+      "pressure": "Pressure",
+      "wind": "Wind",
+      "sunrise": "Sunrise",
+      "sunset": "Sunset",
+      "daytime": "Daytime",
+      "search": "Search city ...",
+      "error": "Error occurred!!",
+      "offline": "Offline Mode"
+    },
+    "weather": {
+      "sun": "Sunny",
+      "cloud": "Cloudy",
+      "fog": "Foggy"
+    }
+  },
+  "page": {
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "location": {
+      "title": "Location"
+    }
+  }
+}

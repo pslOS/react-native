@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "types": ["react", "react-native", "jest"],
+    "target": "es2015",
+    "module": "es2015",
+    "outDir": "build/dist",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "jsx": "react-native",
+    "allowJs": true,
+    "lib": ["dom", "es2015", "es2016", "es2017", "es2018", "esnext"],
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "noEmitHelpers": false,
+    "noImplicitAny": true,
+    "importHelpers": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@actions/*": ["./src/actions/*"],
+      "@api/*": ["./src/api/*"],
+      "@assets/*": ["./assets/*"],
+      "@providers/*": ["./src/providers/*"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@const/*": ["./src/const/*"],
+      "@i18n/*": ["./src/i18n/*"],
+      "@components/*": ["./src/components/*"],
+      "@navigation/*": ["./src/navigation/*"],
+      "@reducers/*": ["./src/reducers/*"],
+      "@screens/*": ["./src/screens/*"],
+      "@store/*": ["./src/store/*"],
+      "@styles/*": ["./src/styles/*"]
+    }
+  },
+  "include": [
+    "src/**/*",
+    "./*"
+  ]
+}
